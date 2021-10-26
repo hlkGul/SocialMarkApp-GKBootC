@@ -10,6 +10,12 @@ npm install
 json-server db.json --watch
 ```
 
+```
+Alternative for security error
+
+npx json-server --watch db.json
+```
+
 ### Execute websocket server ./server
 
 ```
